@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Retail-Store-Website/static/css/main.9b0af875.chunk.css",
+    "main.js": "/Retail-Store-Website/static/js/main.7c8f0e24.chunk.js",
+    "main.js.map": "/Retail-Store-Website/static/js/main.7c8f0e24.chunk.js.map",
+    "runtime-main.js": "/Retail-Store-Website/static/js/runtime-main.adb17e1c.js",
+    "runtime-main.js.map": "/Retail-Store-Website/static/js/runtime-main.adb17e1c.js.map",
+    "static/js/2.07bb7bda.chunk.js": "/Retail-Store-Website/static/js/2.07bb7bda.chunk.js",
+    "static/js/2.07bb7bda.chunk.js.map": "/Retail-Store-Website/static/js/2.07bb7bda.chunk.js.map",
+    "index.html": "/Retail-Store-Website/index.html",
+    "static/css/main.9b0af875.chunk.css.map": "/Retail-Store-Website/static/css/main.9b0af875.chunk.css.map",
+    "static/js/2.07bb7bda.chunk.js.LICENSE.txt": "/Retail-Store-Website/static/js/2.07bb7bda.chunk.js.LICENSE.txt",
+    "static/media/adidas-masks.47462370.jpg": "/Retail-Store-Website/static/media/adidas-masks.47462370.jpg",
+    "static/media/assorted-masks.b7fd67a3.jpg": "/Retail-Store-Website/static/media/assorted-masks.b7fd67a3.jpg",
+    "static/media/cart-icon.1789a2a0.png": "/Retail-Store-Website/static/media/cart-icon.1789a2a0.png",
+    "static/media/home-photo.c4d80434.jpg": "/Retail-Store-Website/static/media/home-photo.c4d80434.jpg",
+    "static/media/hummel-mask.3bc1f16f.jpg": "/Retail-Store-Website/static/media/hummel-mask.3bc1f16f.jpg",
+    "static/media/looka-mask.a81b3556.jpg": "/Retail-Store-Website/static/media/looka-mask.a81b3556.jpg",
+    "static/media/puma-mask.6d57e417.jpg": "/Retail-Store-Website/static/media/puma-mask.6d57e417.jpg",
+    "static/media/ua-mask.36145fc3.jpg": "/Retail-Store-Website/static/media/ua-mask.36145fc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adb17e1c.js",
+    "static/js/2.07bb7bda.chunk.js",
+    "static/css/main.9b0af875.chunk.css",
+    "static/js/main.7c8f0e24.chunk.js"
+  ]
+}
